@@ -1,7 +1,13 @@
 body {
   font-family: "Helvetica", sans-serif;
+  width:1250px;
 }
-
+h1 {
+  padding:10px;
+}
+p {
+  padding:10px;
+}
 h2 {
   color: #7A0019;
 }
@@ -9,9 +15,14 @@ h2 {
 #contact {
   background-color: #FFDE7A;
   padding: 2%;
+  width:350px;
+  float:right;
 }
 #about {
   background-color: maroon;
-  padding: 2%
-  
+  padding: 2%,,
 }
+
+img.large (
+  width: 200px;
+  height: 200px;)
